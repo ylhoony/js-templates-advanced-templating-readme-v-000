@@ -13,9 +13,6 @@ function loadIssues() {
   document.getElementsByTagName("main")[0].innerHTML += result;
 }
 
-
-
-
 // function loadIssue() {
 //   var issue = {
 //     state: "closed",
